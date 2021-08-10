@@ -15,6 +15,9 @@ const About = () => {
         <p className="description">
           Get started by editing <code>pages/about.js</code>
         </p>
+        <div className="" style={{width:200, height:200}}>
+          <img src="/images/cc.png" alt="ddd" style={{width:"100%"}} />
+        </div>
       </main>
 
       <Footer />
